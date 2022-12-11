@@ -1,12 +1,12 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Campfire](https://campfirewriting.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Campfire](https://campfirewriting.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/campfire](https://draculatheme.com/campfire).
 
 ## Team
 
